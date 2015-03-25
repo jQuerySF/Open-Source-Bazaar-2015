@@ -6,3 +6,4 @@ We invite you to apply to take part in this unique opportunity. It will be a fan
 
 More details about the application process to come soon.  In the mean time feel free to start an issue to discuss ideas.
 
+If you have ideas you would like to contribute and don't want to take part in the public form please feel free to email [jquerysf@famo.us](mailto:jquerysf@famo.us)
